@@ -34,7 +34,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install -r requirment.txt
+  pip install -r requirement.txt
 ```
 
 Execute the test
