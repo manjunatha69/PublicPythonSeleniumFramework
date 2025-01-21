@@ -1,6 +1,11 @@
 2025-01-10 21:25:28,790 - SeleniumDriver - INFO - Element Found Using id with value email1
 2025-01-10 21:25:28,873 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
 2025-01-10 21:25:30,894 - SeleniumDriver - INFO - Element Found Using id with value password1
+
+
+
+
+
 2025-01-10 21:25:30,932 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
 2025-01-10 21:25:32,952 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
 2025-01-10 21:25:32,991 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
